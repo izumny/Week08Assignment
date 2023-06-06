@@ -1,0 +1,46 @@
+body {
+background-image: url("Pusheen.jpeg");
+background-repeat: no-repeat;
+font-family: papyrus;
+padding-left: 40px;
+}
+h1 {
+    border-bottom: 6px solid black;
+    text-shadow: 2px 2px 5px rgb(255, 72, 0);
+    
+}
+h2 {
+    text-shadow: 2px 2px 5px rgb(255, 208, 0);
+}
+p.ind1 {
+    width: 450px;
+    padding: 10px;
+}
+table.cont1 {
+    width: 270px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid magenta;
+    border-radius: 12px;
+}
+
+div.ava1 {
+    width: 300px;
+    padding: 10px;
+    padding-left: 30px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+#main1{
+    border: 2px slid black;
+    border-radius: 15px;
+    outline: #808080 solid 10px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+a:hover {
+    background-color: pink;
+}
